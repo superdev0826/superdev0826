@@ -69,19 +69,4 @@
    </tr>
   </table>
 <br />
- 💻 GitHub Stats
-
-<table width="100%">
-    <tr>
-        <td>
-        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=superdev0826&show_icons=true&hide_border=true" /> 
-        </td>
-        <td> 
-        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=superdev0826&show_icons=true&hide_border=true&layout=compact&langs_count=8"/> 
-        </td>
-    </tr>
-    <table>
-    <div align="center"  width="100%">
-        <img src="https://github-profile-trophy.vercel.app/?username=superdev0826&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B&margin-w=10&margin-h=10">
-    </div>
-    <img align='center'  height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"/>
+ 
